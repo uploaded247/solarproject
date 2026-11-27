@@ -1,22 +1,14 @@
-html {
-  scroll-behavior: smooth;
-}
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-li {
-  list-style: none;
+html {
+  scroll-behavior: smooth;
 }
 
-a {
-  text-decoration: none;
-}
-
-img {
-  display: block;
-  width: 100%;
+:root {
+  --primary-color: #fff;
+  --font-family: cormorantgaramond, serif;
 }
